@@ -6,6 +6,5 @@ seaborn==0.11.2
 streamlit==1.13.0
 opendatasets==0.1.22
 requests==2.28.1
-urllib.request==3.4.3
 sodapy==2.20
 html5lib==1.1
